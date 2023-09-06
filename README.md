@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Talha Kamat</h1>
-<h3 align="center">A passionate Web3 developer from Türkiye</h3>
+<h3 align="center">A passionate Web developer from Türkiye</h3>
 
 - 💬 Ask me about **Web**
 
